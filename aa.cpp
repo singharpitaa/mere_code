@@ -62,6 +62,7 @@ int main() {
     string expr;
     cout << "Enter an expression: ";
     cin >> expr;
+     //cin >> expr;
 
     if (isWellParenthesized(expr)) {
         cout << "The expression is well parenthesized." << endl;
