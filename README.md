@@ -13,3 +13,5 @@ namah parvati pati har har mahadev har har mahadev namah parvati pati har har ma
 
 radhe radhe krishna radhe radhe krishna namah parvati pati har har mahadev har har mahadev namah parvati pati har har mahadev har har mahadev
 ganpati bappa morya
+radhe radhe krishna radhe radhe krishna namah parvati pati har har mahadev har har mahadev namah parvati pati har har mahadev har har mahadev
+ganpati bappa morya
